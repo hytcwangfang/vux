@@ -76,7 +76,6 @@ items:
   - v-guide
   - v-tooltip
   - v-legend
-  - v-guide
 v-chart:
   props:
     prevent-render:
